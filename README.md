@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Arjun Mehta
+- 👋 Hi, I’m Arjun Mehta
 - 👀 I’m interested in software development, with a focus in developing mobile applications
 - 🌱 I’m currently learning Android development, iOS development and code-improvement techniques
 - 💞️ I’m looking to collaborate on projects involving native mobile apps
