@@ -12,6 +12,8 @@
 
 💞️ Looking to collaborate on projects involving Mobile Development.
 
+🏋️‍♂️ Also a fitness freak who enjoys working out.
+
 📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/arjunmehtaa) or [Instagram](https://www.instagram.com/arjunmehtaa).
 
 <!---
