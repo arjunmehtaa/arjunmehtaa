@@ -2,7 +2,7 @@
 
 🎓 Computer Engineering student at the University of Waterloo. 
 
-🏢 Mobile Developer Intern at Shopify.
+🏢 Mobile Engineer Intern at LinkedIn.
 
 💻 Side-project enthusiast who loves contributing to open-source projects.
 
