@@ -14,7 +14,7 @@
 
 🏋️ Also a fitness freak who enjoys working out.
 
-📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/arjunmehtaa) or [Instagram](https://www.instagram.com/arjunmehtaa).
+📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/arjunmehtaa).
 
 <!---
 arjunmehtaa/arjunmehtaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
