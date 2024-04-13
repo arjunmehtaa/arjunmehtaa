@@ -2,7 +2,7 @@
 
 🎓 Computer Engineering student at the University of Waterloo. 
 
-🏢 Mobile Engineer Intern at LinkedIn.
+🏢 Previously Software Engineer Intern at Amazon, LinkedIn, Shopify etc.
 
 💻 Side-project enthusiast who loves contributing to open-source projects.
 
